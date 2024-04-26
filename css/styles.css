@@ -47,6 +47,10 @@ img {
   overflow: hidden;
 }
 /* ==================HEADER STYLES================== */
+.page-header {
+  border-bottom: 1px solid #e7e9fc;
+}
+
 .container-heder {
   display: flex;
   align-items: center;
@@ -269,7 +273,7 @@ img {
 /* ===========FOOTER============ */
 .page-footer {
   background-color: #2e2f42;
-  padding: 120px 0;
+  padding: 100px 0;
 }
 .page-logo-footer {
   font-family: "Raleway", sans-serif;
